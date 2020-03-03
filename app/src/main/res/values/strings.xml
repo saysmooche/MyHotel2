@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyHotel2</string>
+    <string name="guest_check_in">Guest Check In</string>
+    <string name="submit">Submit</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="picture">picture</string>
+</resources>
